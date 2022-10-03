@@ -1,0 +1,1 @@
+Get-ADOrganizationalUnit –filter *  Set-ADObject -ProtectedFromAccidentalDeletion:$true 
